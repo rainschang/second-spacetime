@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+type: article
+title: "The Second Spacetime and AI as an Externalized Computational Form: Virtual Layers, Material Carriers, and the Interface"
+authors:
+  - family-names: "Chang"
+    given-names: "Rains"
+    orcid: "https://orcid.org/0009-0005-3554-9372"
+date-released: 2026-11-26
+url: "https://github.com/rainschang/second-spacetime"
+repository-code: "https://github.com/rainschang/second-spacetime"
+keywords:
+  - Second Spacetime
+  - virtual layer
+  - coupling
+  - mental time travel
+  - predictive processing
+  - externalization
+  - temporal alignment
+notes: "PhilArchive link pending review; Chinese master version: Second_Spacetime_CN_v14.md."
